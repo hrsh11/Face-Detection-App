@@ -28,5 +28,4 @@ The app will display bounding boxes around detected faces, along with facial lan
 
 ![Screenshot_20230925-210212](https://github.com/hrsh11/Face-Detection-App/assets/104254904/79350ab6-5374-4121-b0bb-07dc04287c86)
 
-![Screenshot_20230925-210138](https://github.com/hrsh11/Face-Detection-App/assets/104254904/e023aa0e-2357-48d4-a991-1fea483a46da)
 
